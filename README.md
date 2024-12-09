@@ -12,6 +12,13 @@ Este repositório foi criado para registrar exercícios realizados na linguagem 
 
 ---
 
+## 💻 Ferramentas utilizadas
+
+- **IDE**: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- **Git**: Para versionamento do código e colaboração.
+
+---
+
 ## 🚀 Progresso
 
 Este repositório será atualizado frequentemente com novos exercícios.
